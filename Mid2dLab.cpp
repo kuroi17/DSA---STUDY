@@ -20,8 +20,7 @@ int main (){
     }
     cout << endl;
 
-
-
+    
     int rowSums[rows] = {0};
     int colSums[columns] = {0};
 
