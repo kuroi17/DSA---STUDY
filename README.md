@@ -8,3 +8,5 @@ Second Activity - Find the Largest Element in the Array and  Sum of all elements
 MID2LAB COPY - THE REAL REQUIRED OUTPUT
 
 Third Activity - Bubble Sort, Insertion Sort, Selction Sort;
+
+Fourth Activity - Array of the structure and Pointer to structure.
