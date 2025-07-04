@@ -10,3 +10,5 @@ MID2LAB COPY - THE REAL REQUIRED OUTPUT
 Third Activity - Bubble Sort, Insertion Sort, Selction Sort;
 
 Fourth Activity - Array of the structure and Pointer to structure.
+
+Fifth Activity - Dynamic Memory Allocation and Linkedlist;
