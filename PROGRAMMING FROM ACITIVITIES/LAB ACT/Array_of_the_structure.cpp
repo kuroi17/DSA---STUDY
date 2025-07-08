@@ -21,7 +21,8 @@ int main (){
     cin >> size;
 
     
-    Student students[size]; 
+    Student students[size]; // Student* students = new Student[size]; same with int* dynamicArray = new int [size];
+    // same as Student* ptr = students
 
     for (int i = 0; i < size; i++){
         cout << "Enter ID of student: ";

@@ -15,8 +15,8 @@ int main (){
     cout << "Enter the number of employees: ";
     cin >> size;
 
-    Employee employees[size];
-    Employee* ptr = employees;
+    Employee employees[size]; // Employee* employees = new Employee[size]; same with int* dynamicArray = new int[size];
+    Employee* ptr = employees; 
 
     for (int i = 0; i < size; i++){
         cout << "Enter the ID of the employee: ";
