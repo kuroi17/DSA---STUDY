@@ -31,8 +31,8 @@ void traverseBackward(Node* tail) {
 }
 
 int main() {
-    // Create nodes
-    Node* first = new Node{10, nullptr, nullptr};
+    // Create nodes10,
+    Node* first = new Node{ 10, nullptr, nullptr};
     Node* second = new Node{20, nullptr, nullptr};
     Node* third = new Node{30, nullptr, nullptr};
 

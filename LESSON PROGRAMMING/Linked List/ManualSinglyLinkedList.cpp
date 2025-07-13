@@ -7,6 +7,9 @@ struct Node {
 };
 
 void printLinkedList(Node* node){
+    // same as Node* node to current or Employee* employee = new Employee;
+    // Employee employee[size]; // Employee* employee = new Employee[size];
+    // Employee* ptr = employee;
     Node* current = node;
     while (current != nullptr){
         if (current -> value == 0){

@@ -62,6 +62,8 @@ int main() {
         }
         current = current->next;
     }
-
+    delete head;
+    delete second;
+    delete third;
     return 0;
 }

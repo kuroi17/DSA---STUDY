@@ -13,4 +13,4 @@ Fourth Activity - Array of the structure and Pointer to structure.
 
 (REVIEWER) Fifth Activity - LinkedList (Doubly) - Huntrix ; DMA - SajaBoys 
 
-Fifth Activity - Dynamic Memory Allocation and Linkedlist;
+Fifth Activity - Dynamic Memory Allocation and Linkedlist; 

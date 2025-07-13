@@ -17,10 +17,10 @@ int main (){
     if (student != nullptr){
         for (int i = 0; i < size; i++){
             cout << "Enter the ID of student: ";
-            cin >> student[i].id;
+            cin >> student[i].id; // same with cin >> (student + i) -> id;
             cin.ignore();
             cout << "Enter the name of student: ";
-            cin.getline(student[i].name, 50);
+            cin.getline(student[i].name, 50); // same with cin.getline((student + i) -> name. 50); 
             cout << "Enter the GPA of student: ";
             cin >> student[i].GPA;
             cout << endl;
