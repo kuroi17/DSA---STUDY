@@ -15,7 +15,7 @@ int main (){
     int word2length = word2.length();
     
     int size = 100;
-    char array[size] = {};
+    char array[size];
     int k = 0;
 
     int minLength = word1length < word2length ? word1length : word2length;
