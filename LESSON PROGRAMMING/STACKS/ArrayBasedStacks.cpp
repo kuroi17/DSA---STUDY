@@ -11,6 +11,7 @@ private:
 public:
 	Stack() {
 		top = -1; // -1 MEANS NASA UNAHAN NG ELEMENT ZERO ANG STACK, WALA PANG NAKA-PUSH NA ELEMENT KASI DIBA FIRST ELEMENT IS AT INDEX 0
+		// means empty
 	}
 
 	void push(int element) {
